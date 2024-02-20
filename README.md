@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/spa716wpub8gc82e?svg=true)](https://ci.appveyor.com/project/PotapovEvgeny/javaqamid75pageobject)
